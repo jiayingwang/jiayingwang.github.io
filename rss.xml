@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Jiaying Wang&#39;s Website</title>
+        <link>https://jiayingwang.github.io/</link>
+        <description>This is Jiaying Wang&#39;s Website</description>
+        <generator>Hugo 0.74.3 https://gohugo.io/</generator>
+        
+            <language>zh-CN</language>
+        
+        
+            <managingEditor>jiaying@sjzu.edu.cn (Jiaying Wang)</managingEditor>
+        
+        
+            <webMaster>jiaying@sjzu.edu.cn (Jiaying Wang)</webMaster>
+        
+        
+            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+        
+        <lastBuildDate>Fri, 14 Aug 2020 17:10:33 &#43;0000</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://jiayingwang.github.io/rss.xml" />
+        
+        
+    </channel>
+</rss>
