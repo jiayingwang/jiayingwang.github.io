@@ -21,10 +21,35 @@
             <webMaster>jiaying@sjzu.edu.cn (Jiaying Wang)</webMaster>
         
         
-        <lastBuildDate>Sat, 15 Aug 2020 05:51:28 &#43;0000</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2020 03:36:15 &#43;0000</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://jiayingwang.github.io/rss.xml" />
         
+        
+            <item>
+                <title>Phone</title>
+                <link>https://jiayingwang.github.io/posts/phone/</link>
+                <guid isPermaLink="true">https://jiayingwang.github.io/posts/phone/</guid>
+                <pubDate>Mon, 17 Aug 2020 13:41:31 &#43;0000</pubDate>
+                
+                    <author>jiaying@sjzu.edu.cn (Jiaying Wang)</author>
+                
+                
+                
+                    <description>&lt;p&gt;I bought a new phone HUAWEI Mate 30, I hope it can stay longer than my last phone.&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>Hello World</title>
