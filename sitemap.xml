@@ -3,17 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jiayingwang.github.io/</loc>
-    <lastmod>2020-08-17T13:45:53+00:00</lastmod>
+    <loc>https://jiayingwang.github.io/posts/ascii/</loc>
+    <lastmod>2020-08-26T19:17:55+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jiayingwang.github.io/posts/phone/</loc>
-    <lastmod>2020-08-17T13:45:53+00:00</lastmod>
+    <loc>https://jiayingwang.github.io/tags/basic/</loc>
+    <lastmod>2020-08-26T19:17:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiayingwang.github.io/categories/basic/</loc>
+    <lastmod>2020-08-26T19:17:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiayingwang.github.io/categories/</loc>
+    <lastmod>2020-08-26T19:17:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiayingwang.github.io/</loc>
+    <lastmod>2020-08-26T19:17:55+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://jiayingwang.github.io/posts/</loc>
+    <lastmod>2020-08-26T19:17:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiayingwang.github.io/tags/</loc>
+    <lastmod>2020-08-26T19:17:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiayingwang.github.io/posts/phone/</loc>
     <lastmod>2020-08-17T13:45:53+00:00</lastmod>
   </url>
   
@@ -25,14 +50,6 @@
   <url>
     <loc>https://jiayingwang.github.io/posts/hello-world/</loc>
     <lastmod>2020-08-14T18:03:31+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jiayingwang.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jiayingwang.github.io/tags/</loc>
   </url>
   
 </urlset>
