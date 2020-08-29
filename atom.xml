@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">Jiaying Wang&#39;s Website</title>
     <subtitle type="html">This is Jiaying Wang&#39;s Website</subtitle>
-    <updated>2020-08-27T07:50:02&#43;00:00</updated>
+    <updated>2020-08-29T06:01:24&#43;00:00</updated>
     <id>https://jiayingwang.github.io/</id>
     <link rel="alternate" type="text/html" href="https://jiayingwang.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://jiayingwang.github.io/atom.xml" />
@@ -16,6 +16,31 @@
             </author>
     
     <generator uri="https://gohugo.io/" version="0.74.3">Hugo</generator>
+        <entry>
+            <title type="text">Passing of the Black Panther</title>
+            <link rel="alternate" type="text/html" href="https://jiayingwang.github.io/posts/passing-of-the-black-panther/" />
+            <id>https://jiayingwang.github.io/posts/passing-of-the-black-panther/</id>
+            <updated>2020-08-29T06:00:41&#43;00:00</updated>
+            <published>2020-08-29T05:59:04&#43;00:00</published>
+            <author>
+                    <name>Jiaying Wang</name>
+                    <uri>https://io-oi.me/</uri>
+                    <email>jiaying@sjzu.edu.cn</email>
+                    </author>
+            <summary type="html">I am sorry for the passing of Chadwick Boseman (The black panther).</summary>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">Ascii</title>
             <link rel="alternate" type="text/html" href="https://jiayingwang.github.io/posts/ascii/" />
