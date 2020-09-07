@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">Jiaying Wang&#39;s Website</title>
     <subtitle type="html">This is Jiaying Wang&#39;s Website</subtitle>
-    <updated>2020-09-07T08:58:29&#43;00:00</updated>
+    <updated>2020-09-07T12:12:02&#43;00:00</updated>
     <id>https://jiayingwang.github.io/</id>
     <link rel="alternate" type="text/html" href="https://jiayingwang.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://jiayingwang.github.io/atom.xml" />
@@ -20,14 +20,14 @@
             <title type="text">Cryptography</title>
             <link rel="alternate" type="text/html" href="https://jiayingwang.github.io/posts/cryptography/" />
             <id>https://jiayingwang.github.io/posts/cryptography/</id>
-            <updated>2020-09-07T08:58:10&#43;00:00</updated>
+            <updated>2020-09-07T12:11:34&#43;00:00</updated>
             <published>2020-09-07T08:47:19&#43;00:00</published>
             <author>
                     <name>Jiaying Wang</name>
                     <uri>https://io-oi.me/</uri>
                     <email>jiaying@sjzu.edu.cn</email>
                     </author>
-            <summary type="html">Cryptography comes from two Greek words, &amp;quot;Krypto&amp;quot; means hidden, and &amp;quot;graphene&amp;quot; means writing. It is a research field to study how to encrypt a message to avoid unauthorized access.
+            <summary type="html">Cryptography comes from two Greek words &amp;quot;Krypto&amp;quot; and &amp;quot;graphene&amp;quot;, in which &amp;quot;Krypto&amp;quot; means hidden, and &amp;quot;graphene&amp;quot; means writing. It is a research field to study how to encrypt a message to avoid unauthorized access.
 The simplest method of encryption named Caesar Shift Cipher, which encrypts the message by shifting each characters by a given number (e.</summary>
             
             
@@ -36,7 +36,35 @@ The simplest method of encryption named Caesar Shift Cipher, which encrypts the 
             
                 
                     
+                        
+                            
+                            
+                            
+                                <category scheme="https://jiayingwang.github.io/categories/cryptography/" term="Cryptography" label="Cryptography" />
+                            
+                        
+                    
                 
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://jiayingwang.github.io/tags/cryptography/" term="Cryptography" label="Cryptography" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://jiayingwang.github.io/tags/python/" term="Python" label="Python" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://jiayingwang.github.io/tags/caesar-shift-cipher/" term="Caesar Shift Cipher" label="Caesar Shift Cipher" />
+                            
+                        
                     
                 
             
@@ -71,7 +99,7 @@ The simplest method of encryption named Caesar Shift Cipher, which encrypts the 
             <title type="text">Ascii</title>
             <link rel="alternate" type="text/html" href="https://jiayingwang.github.io/posts/ascii/" />
             <id>https://jiayingwang.github.io/posts/ascii/</id>
-            <updated>2020-08-27T06:38:47&#43;00:00</updated>
+            <updated>2020-09-07T12:11:00&#43;00:00</updated>
             <published>2020-08-26T17:24:39&#43;00:00</published>
             <author>
                     <name>Jiaying Wang</name>
@@ -90,7 +118,7 @@ The simplest method of encryption named Caesar Shift Cipher, which encrypts the 
                             
                             
                             
-                                <category scheme="https://jiayingwang.github.io/categories/basic/" term="basic" label="basic" />
+                                <category scheme="https://jiayingwang.github.io/categories/basic/" term="Basic" label="Basic" />
                             
                         
                     
@@ -100,7 +128,7 @@ The simplest method of encryption named Caesar Shift Cipher, which encrypts the 
                             
                             
                             
-                                <category scheme="https://jiayingwang.github.io/tags/basic/" term="basic" label="basic" />
+                                <category scheme="https://jiayingwang.github.io/tags/basic/" term="Basic" label="Basic" />
                             
                         
                     
