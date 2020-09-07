@@ -20,10 +20,34 @@
             <webMaster>jiaying@sjzu.edu.cn (Jiaying Wang)</webMaster>
         
         
-        <lastBuildDate>Sat, 29 Aug 2020 06:01:24 &#43;0000</lastBuildDate>
+        <lastBuildDate>Mon, 07 Sep 2020 08:58:29 &#43;0000</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://jiayingwang.github.io/rss.xml" />
         
+        
+            <item>
+                <title>Cryptography</title>
+                <link>https://jiayingwang.github.io/posts/cryptography/</link>
+                <guid isPermaLink="true">https://jiayingwang.github.io/posts/cryptography/</guid>
+                <pubDate>Mon, 07 Sep 2020 08:47:19 &#43;0000</pubDate>
+                
+                    <author>jiaying@sjzu.edu.cn (Jiaying Wang)</author>
+                
+                
+                <description>Cryptography comes from two Greek words, &amp;quot;Krypto&amp;quot; means hidden, and &amp;quot;graphene&amp;quot; means writing. It is a research field to study how to encrypt a message to avoid unauthorized access.
+The simplest method of encryption named Caesar Shift Cipher, which encrypts the message by shifting each characters by a given number (e.</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>Passing of the Black Panther</title>
