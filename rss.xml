@@ -20,10 +20,35 @@
             <webMaster>jiaying@sjzu.edu.cn (Jiaying Wang)</webMaster>
         
         
-        <lastBuildDate>Mon, 07 Sep 2020 12:12:02 &#43;0000</lastBuildDate>
+        <lastBuildDate>Mon, 14 Sep 2020 05:55:59 &#43;0000</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://jiayingwang.github.io/rss.xml" />
         
+        
+            <item>
+                <title>Computer Network</title>
+                <link>https://jiayingwang.github.io/posts/computer-network/</link>
+                <guid isPermaLink="true">https://jiayingwang.github.io/posts/computer-network/</guid>
+                <pubDate>Fri, 11 Sep 2020 09:00:14 &#43;0000</pubDate>
+                
+                    <author>jiaying@sjzu.edu.cn (Jiaying Wang)</author>
+                
+                
+                <description>In this tutorial, I will share knowledge about computer network.
+ End system: devices at the edge of the network that provides information or services.    Which one is the end system?
+(A) Computer ✅ (B) Router (C) Switch (D) Twisted-Pair Copper Wire</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>Cryptography</title>

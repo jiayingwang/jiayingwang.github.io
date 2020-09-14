@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">Jiaying Wang&#39;s Website</title>
     <subtitle type="html">This is Jiaying Wang&#39;s Website</subtitle>
-    <updated>2020-09-07T12:12:02&#43;00:00</updated>
+    <updated>2020-09-14T05:55:59&#43;00:00</updated>
     <id>https://jiayingwang.github.io/</id>
     <link rel="alternate" type="text/html" href="https://jiayingwang.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://jiayingwang.github.io/atom.xml" />
@@ -17,10 +17,37 @@
     
     <generator uri="https://gohugo.io/" version="0.74.3">Hugo</generator>
         <entry>
+            <title type="text">Computer Network</title>
+            <link rel="alternate" type="text/html" href="https://jiayingwang.github.io/posts/computer-network/" />
+            <id>https://jiayingwang.github.io/posts/computer-network/</id>
+            <updated>2020-09-12T00:31:28&#43;00:00</updated>
+            <published>2020-09-11T09:00:14&#43;00:00</published>
+            <author>
+                    <name>Jiaying Wang</name>
+                    <uri>https://io-oi.me/</uri>
+                    <email>jiaying@sjzu.edu.cn</email>
+                    </author>
+            <summary type="html">In this tutorial, I will share knowledge about computer network.
+ End system: devices at the edge of the network that provides information or services.    Which one is the end system?
+(A) Computer ✅ (B) Router (C) Switch (D) Twisted-Pair Copper Wire</summary>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
+        <entry>
             <title type="text">Cryptography</title>
             <link rel="alternate" type="text/html" href="https://jiayingwang.github.io/posts/cryptography/" />
             <id>https://jiayingwang.github.io/posts/cryptography/</id>
-            <updated>2020-09-07T12:11:34&#43;00:00</updated>
+            <updated>2020-09-14T05:53:56&#43;00:00</updated>
             <published>2020-09-07T08:47:19&#43;00:00</published>
             <author>
                     <name>Jiaying Wang</name>
