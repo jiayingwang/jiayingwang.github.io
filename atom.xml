@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">Jiaying Wang&#39;s Website</title>
     <subtitle type="html">This is Jiaying Wang&#39;s Website</subtitle>
-    <updated>2020-09-14T07:24:19&#43;00:00</updated>
+    <updated>2020-09-26T09:56:45&#43;00:00</updated>
     <id>https://jiayingwang.github.io/</id>
     <link rel="alternate" type="text/html" href="https://jiayingwang.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://jiayingwang.github.io/atom.xml" />
@@ -16,6 +16,31 @@
             </author>
     
     <generator uri="https://gohugo.io/" version="0.74.3">Hugo</generator>
+        <entry>
+            <title type="text">Cryptanalysis</title>
+            <link rel="alternate" type="text/html" href="https://jiayingwang.github.io/posts/cryptanalysis/" />
+            <id>https://jiayingwang.github.io/posts/cryptanalysis/</id>
+            <updated>2020-09-23T09:49:44&#43;00:00</updated>
+            <published>2020-09-23T09:45:43&#43;00:00</published>
+            <author>
+                    <name>Jiaying Wang</name>
+                    <uri>https://io-oi.me/</uri>
+                    <email>jiaying@sjzu.edu.cn</email>
+                    </author>
+            <summary type="html">Cryptanalysis is the opposite of cryptography. It is the art and science of crptographic mechanism to break them. It is also used to test the security stengths during the design of new crptographic techniques.</summary>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">Computer Network</title>
             <link rel="alternate" type="text/html" href="https://jiayingwang.github.io/posts/computer-network/" />
@@ -47,15 +72,14 @@
             <title type="text">Cryptography</title>
             <link rel="alternate" type="text/html" href="https://jiayingwang.github.io/posts/cryptography/" />
             <id>https://jiayingwang.github.io/posts/cryptography/</id>
-            <updated>2020-09-14T07:22:48&#43;00:00</updated>
+            <updated>2020-09-23T15:10:14&#43;00:00</updated>
             <published>2020-09-07T08:47:19&#43;00:00</published>
             <author>
                     <name>Jiaying Wang</name>
                     <uri>https://io-oi.me/</uri>
                     <email>jiaying@sjzu.edu.cn</email>
                     </author>
-            <summary type="html">Cryptography comes from two Greek words &amp;quot;Krypto&amp;quot; and &amp;quot;graphene&amp;quot;, in which &amp;quot;Krypto&amp;quot; means hidden, and &amp;quot;graphene&amp;quot; means writing. It is a research field to study how to encrypt a message to avoid unauthorized access.
-The simplest method of encryption named Caesar Shift Cipher, which encrypts the message by shifting each characters by a given number (e.</summary>
+            <summary type="html">Cryptography comes from two Greek words &amp;quot;Krypto&amp;quot; and &amp;quot;graphene&amp;quot;, in which &amp;quot;Krypto&amp;quot; means hidden, and &amp;quot;graphene&amp;quot; means writing. Cryptography is the art and science of making a cryptosystem that is capable of providing information security. In other words, it studies how to encrypt a message to avoid unauthorized access.</summary>
             
             
             
@@ -123,10 +147,10 @@ The simplest method of encryption named Caesar Shift Cipher, which encrypts the 
         </entry>
     
         <entry>
-            <title type="text">Ascii</title>
+            <title type="text">ASCII Code</title>
             <link rel="alternate" type="text/html" href="https://jiayingwang.github.io/posts/ascii/" />
             <id>https://jiayingwang.github.io/posts/ascii/</id>
-            <updated>2020-09-07T12:11:00&#43;00:00</updated>
+            <updated>2020-09-14T07:47:21&#43;00:00</updated>
             <published>2020-08-26T17:24:39&#43;00:00</published>
             <author>
                     <name>Jiaying Wang</name>

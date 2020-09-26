@@ -20,10 +20,33 @@
             <webMaster>jiaying@sjzu.edu.cn (Jiaying Wang)</webMaster>
         
         
-        <lastBuildDate>Mon, 14 Sep 2020 07:24:19 &#43;0000</lastBuildDate>
+        <lastBuildDate>Sat, 26 Sep 2020 09:56:45 &#43;0000</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://jiayingwang.github.io/rss.xml" />
         
+        
+            <item>
+                <title>Cryptanalysis</title>
+                <link>https://jiayingwang.github.io/posts/cryptanalysis/</link>
+                <guid isPermaLink="true">https://jiayingwang.github.io/posts/cryptanalysis/</guid>
+                <pubDate>Wed, 23 Sep 2020 09:45:43 &#43;0000</pubDate>
+                
+                    <author>jiaying@sjzu.edu.cn (Jiaying Wang)</author>
+                
+                
+                <description>Cryptanalysis is the opposite of cryptography. It is the art and science of crptographic mechanism to break them. It is also used to test the security stengths during the design of new crptographic techniques.</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>Computer Network</title>
@@ -59,8 +82,7 @@
                     <author>jiaying@sjzu.edu.cn (Jiaying Wang)</author>
                 
                 
-                <description>Cryptography comes from two Greek words &amp;quot;Krypto&amp;quot; and &amp;quot;graphene&amp;quot;, in which &amp;quot;Krypto&amp;quot; means hidden, and &amp;quot;graphene&amp;quot; means writing. It is a research field to study how to encrypt a message to avoid unauthorized access.
-The simplest method of encryption named Caesar Shift Cipher, which encrypts the message by shifting each characters by a given number (e.</description>
+                <description>Cryptography comes from two Greek words &amp;quot;Krypto&amp;quot; and &amp;quot;graphene&amp;quot;, in which &amp;quot;Krypto&amp;quot; means hidden, and &amp;quot;graphene&amp;quot; means writing. Cryptography is the art and science of making a cryptosystem that is capable of providing information security. In other words, it studies how to encrypt a message to avoid unauthorized access.</description>
                 
                 
                 
@@ -126,7 +148,7 @@ The simplest method of encryption named Caesar Shift Cipher, which encrypts the 
             </item>
         
             <item>
-                <title>Ascii</title>
+                <title>ASCII Code</title>
                 <link>https://jiayingwang.github.io/posts/ascii/</link>
                 <guid isPermaLink="true">https://jiayingwang.github.io/posts/ascii/</guid>
                 <pubDate>Wed, 26 Aug 2020 17:24:39 &#43;0000</pubDate>
